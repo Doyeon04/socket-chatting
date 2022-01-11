@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\user\Desktop\kokoaTalk\.metadata\.plugins\org.eclipse.jdt.core
+75931715.index
+3775096494.index
+2083174157.index
+1865797976.index
