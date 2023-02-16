@@ -8,6 +8,10 @@
 Socket.io를 이용하여 실시간 양방향 통신 기능을 구현한 채팅 프로그램입니다.
 
 <br>
+## 개발 환경
+
+- 개발 언어 및 기술: Java, Socket.io, Swing
+<br>
 
 ## 기능
 
@@ -52,11 +56,12 @@ Socket.io를 이용하여 실시간 양방향 통신 기능을 구현한 채팅 
 |   700    |      프로필 변경       |     Client  -> Server      |
 |   750    | 변경된 프로필 유저들에게 알림  |      Server -> Client      |
 
+<br>
+
+## 시스템 흐름도
+![시스템 흐름도](https://user-images.githubusercontent.com/71643491/219285081-6eaa26f0-b0a0-4bf6-8b5e-29d8b1e972da.png)
 
 
-## 개발 환경
-
-- 개발 언어 및 기술: Java, Socket.io, Swing
 
 <br>
 
